@@ -168,8 +168,8 @@ class Explanation_generator:
                          decom_padding[x_max, y_max]*dx*dy
         return np.maximum(interplolation,0)
 
-    def demo(self, path_1='Image_Retrieval/Images/51.jpg',/
-                   path_2='Image_Retrieval/Images/52.jpg',/
+    def demo(self, path_1='Image_Retrieval/Images/51.jpg',
+                   path_2='Image_Retrieval/Images/52.jpg',
                    size = (224,224)):
         '''
             Generate activation map with different methods.
