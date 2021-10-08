@@ -4,11 +4,12 @@ This work explores the visual explanation for deep metric learning and its appli
 
 We provide runnable demos for activation decomposition and Grad-CAM (with our variants) on Image Retrieval, Person Re-identification, Face Verification, and Geo-localization. If you find this repository useful in your project, please consider citing:
 
-	@article{zhu2019visual,
-	  title={Visual Explanation for Deep Metric Learning},
+	@article{zhu2021visual,
+	  title={Visual explanation for deep metric learning},
 	  author={Zhu, Sijie and Yang, Taojiannan and Chen, Chen},
-	  journal={arXiv preprint arXiv:1909.12977},
-	  year={2019}
+	  journal={IEEE Transactions on Image Processing},
+	  year={2021},
+	  publisher={IEEE}
 	}
 
 ## Requirement
