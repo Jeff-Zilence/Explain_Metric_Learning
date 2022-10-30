@@ -31,7 +31,7 @@ Please download our pretrained model ([strong baseline](https://drive.google.com
 	python Person_Re-identification/demo.py
 <img width=280 height=210 src="Person_Re-identification/Images/Figure_1.png"/><img width=280 height=210 src="Person_Re-identification/Images/Figure_2.png"/><img width=280 height=210 src="Person_Re-identification/Images/Figure_3.png"/><img width=280 height=210 src="Person_Re-identification/Images/Figure_4.png"/><img width=280 height=210 src="Person_Re-identification/Images/Figure_5.png"/>
 
-You may download the [Market-1501](http://www.liangzheng.com.cn/Project/project_reid.html) dataset for more results. Enjoy!
+You may download the [Market-1501](https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html) dataset for more results. Enjoy!
 
 ## Face Verification
 Please download our pretrained model ([arcface](https://drive.google.com/open?id=1YADdI8PahhpkiiHqDJmK1Bxz7VYIt_L2)) and put it in "./Face_Verification/Model/". Then run the demo:
